@@ -1,4 +1,4 @@
-# Best_Maple_leaf剧本开发指南
+# SakuraSchool剧本开发指南
 
 我们使用Nova框架 脚本选用NovaScript脚本语言
 
