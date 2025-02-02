@@ -1,4 +1,4 @@
-# Best_Maple_leaf
+# SakuraSchool
 使用Unity开发的,开源的Galgame
 
 我们使用Nova框架 脚本选用NovaScript脚本语言
