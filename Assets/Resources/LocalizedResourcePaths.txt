@@ -1,0 +1,6 @@
+LocalizedResources/English/Backgrounds/staff
+LocalizedResources/English/CG/rain_text
+LocalizedResources/English/Scenarios/ch1
+LocalizedResources/English/Scenarios/ch2
+LocalizedResources/English/Scenarios/ch3
+LocalizedResources/English/Scenarios/ch4

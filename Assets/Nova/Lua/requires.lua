@@ -1,0 +1,28 @@
+--- require order is important
+require 'built_in'
+
+require 'hook'
+require 'preload'
+
+require 'advanced_dialogue_helper'
+require 'alert'
+require 'animation'
+require 'animation_high_level'
+require 'audio'
+require 'auto_voice'
+require 'avatar'
+require 'checkpoint_helper'
+require 'dialogue_box'
+require 'garbage_collection'
+require 'graphics'
+require 'input'
+require 'minigame'
+require 'pose'
+require 'script_loader'
+require 'shader_info'
+require 'timeline'
+require 'transition'
+require 'variables'
+require 'video'
+
+require 'animation_presets'

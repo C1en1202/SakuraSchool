@@ -1,0 +1,13 @@
+@<|
+label('tut03', '3')
+is_start()
+|>
+<|
+show(bg, 'room')
+stop(bgm)
+set_box()
+|>
+3
+
+3到此结束
+@<| jump_to 'tut04' |>

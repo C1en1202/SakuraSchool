@@ -1,0 +1,13 @@
+@<|
+label('tut06', '6')
+is_start()
+|>
+<|
+show(bg, 'room')
+stop(bgm)
+set_box()
+|>
+6
+
+6 到此结束
+@<| is_end() |>

@@ -1,0 +1,12 @@
+@<|
+label('tut02', '2)
+is_start()
+|>
+<|
+stop(bgm)
+set_box()
+|>
+2
+
+
+@<| jump_to 'tut03' |>

@@ -1,0 +1,12 @@
+@<|
+label('tut01', '始')
+is_unlocked_start()
+|>
+<|
+stop(bgm)
+set_box()
+|>
+始
+
+始到此结束
+@<| jump_to 'tut02' |>
